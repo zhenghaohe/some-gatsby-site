@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  repo: zhenghaohe/https://github.com/zhenghaohe/gatsby-starter-foundation
+  repo: zhenghaohe/gatsby-starter-foundation
   branch: master
   commit_messages:
     create: "Create {{collection}} “{{slug}}”"
